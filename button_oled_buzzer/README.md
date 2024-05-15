@@ -32,11 +32,6 @@
 - Libraries Used:
   - Wire.h for I2C communication with the OLED display.
   - Adafruit_GFX.h and Adafruit_SSD1306.h for controlling the OLED display.
--Connections:
- - LED connected to GPIO 0.
- - Button connected to GPIO 16.
- - Buzzer connected to GPIO 4.
- - OLED display connected via I2C (SDA to D2, SCL to D1).
 
 
 ## Fritzing Design
